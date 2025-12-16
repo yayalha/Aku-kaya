@@ -1681,7 +1681,7 @@ function RayfieldLibrary:CreateWindow(Settings)
 				RayfieldLibrary:Notify({
 					Title = "Rayfield Interface",
 					Content = "Enjoying this UI library? Find it at sirius.menu/discord",
-					Duration = 0,
+					Duration = 0.000000000000001,
 					Image = 4370033185,
 				})
 			end
